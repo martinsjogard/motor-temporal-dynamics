@@ -22,7 +22,7 @@ Simultaneous MEG & EEG:
 
 
 ### Features
-- Synthetic dataset mimicking a 3-day motor sequence learning study
+- Pseudo-synthetic dataset of a 3-day motor sequence learning study
 - EEG/MEG feature generation (SOs, spindles, beta, theta power, coupling)
 - Behavioral performance over time
 - Linear mixed-effects and deep learning models for behavioral prediction

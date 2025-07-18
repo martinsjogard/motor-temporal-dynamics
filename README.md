@@ -43,13 +43,18 @@ python scripts/main_analysis.py
 motor-temporal-dynamics
   lkjdf
   lkjdsf
+  
   lkdjf
 
 # Root directory structure
 motor-temporal-dynamics
+
   README.md
+  
   data
+  
     synthetic_dataset.csv
+    
     notebooks
 
 

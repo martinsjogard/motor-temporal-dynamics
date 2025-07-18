@@ -43,10 +43,11 @@ python scripts/main_analysis.py
 
 # Root directory structure
 motor-temporal-dynamics/
-├── README.md
-├── data/
-│   └── synthetic_dataset.csv
-├── notebooks/
+── README.md
+── data/
+  ── synthetic_dataset.csv
+  ── notebooks/
+
 │   └── exploratory_analysis.ipynb
 ├── scripts/
 │   ├── main_analysis.py

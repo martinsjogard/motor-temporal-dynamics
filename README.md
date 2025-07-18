@@ -40,6 +40,10 @@ python scripts/main_analysis.py
 - pandas, numpy, statsmodels, seaborn, matplotlib, scikit-learn
 
 ---
+motor-temporal-dynamics
+  lkjdf
+  lkjdsf
+  lkdjf
 
 # Root directory structure
 motor-temporal-dynamics
@@ -48,5 +52,22 @@ motor-temporal-dynamics
     synthetic_dataset.csv
     notebooks
 
+
+│   └── exploratory_analysis.ipynb
+├── scripts/
+│   ├── main_analysis.py
+│   ├── generate_data.py
+│   ├── run_mixed_models.py
+│   └── visualize_results.py
+├── src/
+│   ├── __init__.py
+│   ├── data_generation.py
+│   ├── preprocessing.py
+│   ├── feature_extraction.py
+│   ├── modeling.py
+│   └── plotting.py
+├── tests/
+│   └── test_modeling.py
+└── requirements.txt
 
 

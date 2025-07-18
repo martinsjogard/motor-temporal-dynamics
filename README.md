@@ -21,12 +21,20 @@ Simultaneous MEG & EEG:
   
 
 
-###  Features
-- Pseudosynthetic dataset from a 3-day motor sequence learning study
-- EEG/MEG feature generation (SOs, spindles, beta power)
+### Features
+- Synthetic dataset mimicking a 3-day motor sequence learning study
+- EEG/MEG feature generation (SOs, spindles, beta, theta power, coupling)
 - Behavioral performance over time
-- Mixed-effects modeling of behavioral gains using EEG/MEG
-- Figures and summaries
+- Linear mixed-effects and deep learning models for behavioral prediction
+- Figures and interpretable ML summaries
+
+### Models Included
+- Linear Mixed-Effects Models
+- Ridge/Lasso Regression
+- Random Forests
+- XGBoost
+- Multilayer Perceptron (MLP)
+- Feature importance via SHAP and permutation testing
 
 ### How to Run
 ```bash
@@ -37,7 +45,7 @@ python scripts/main_analysis.py
 
 ### Requirements
 - Python 3.10+
-- pandas, numpy, statsmodels, seaborn, matplotlib, scikit-learn
+- pandas, numpy, statsmodels, seaborn, matplotlib, scikit-learn, xgboost, shap, tensorflow, keras
 
 ---
 

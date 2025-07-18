@@ -26,7 +26,7 @@ Simultaneous MEG & EEG:
 - EEG/MEG feature generation (SOs, spindles, beta power)
 - Behavioral performance over time
 - Mixed-effects modeling of behavioral gains using EEG/MEG
-- Publication-quality figures and interpretable summaries
+- Figures and summaries
 
 ### How to Run
 ```bash

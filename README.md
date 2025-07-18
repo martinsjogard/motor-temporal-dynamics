@@ -52,14 +52,14 @@ project/<br />
 │   ├── main_analysis.py<br />
 │   ├── generate_data.py<br />
 │   ├── run_mixed_models.py<br />
-│   └── visualize_results.py
-├── src/
-│   ├── __init__.py
-│   ├── data_generation.py
-│   ├── preprocessing.py
-│   ├── feature_extraction.py
-│   ├── modeling.py
-│   └── plotting.py
-├── tests/
-│   └── test_modeling.py
-└── requirements.txt
+│   └── visualize_results.py<br />
+├── src/<br />
+│   ├── __init__.py<br />
+│   ├── data_generation.py<br />
+│   ├── preprocessing.py<br />
+│   ├── feature_extraction.py<br />
+│   ├── modeling.py<br />
+│   └── plotting.py<br />
+├── tests/<br />
+│   └── test_modeling.py<br />
+└── requirements.txt<br />

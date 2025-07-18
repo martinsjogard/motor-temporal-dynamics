@@ -1,7 +1,6 @@
 """
 Main Analysis: Full Pipeline Coordination and Explanation
-This script demonstrates how all components of the project fit together,
-with detailed technical justification for each design choice.
+This script demonstrates how all components of the project fit together
 """
 
 from src.data_generator import generate_synthetic_data, expand_with_task_features, add_noise_and_artifacts, save_synthetic_data
